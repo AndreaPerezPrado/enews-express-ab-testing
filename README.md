@@ -1,29 +1,75 @@
-# Healthcare A/B Testing & Conversion Analysis (E-News Express)
+# Healthcare A/B Testing & Conversion Analysis — E-News Express
 
 ## Project Overview
-This project evaluates the effectiveness of a new landing page for an online news platform using A/B testing and statistical hypothesis testing. The analysis mirrors healthcare and insurance analytics workflows where intervention effectiveness, user behavior, and outcome measurement are critical.
+This project applies **A/B testing and statistical hypothesis testing** to evaluate the effectiveness of a new landing page for an online news platform (E-News Express). The analysis mirrors **healthcare and insurance analytics workflows**, where measuring intervention impact, engagement behavior, and outcome improvement is critical for data-driven decision-making.
 
-## Business Objective
-Determine whether the new landing page leads to a statistically significant improvement in user conversion and engagement, supporting data-driven optimization decisions.
+The objective is to determine whether the new landing page leads to a statistically significant improvement in user conversion and engagement, enabling leadership to make informed rollout decisions.
 
-## Data & Methodology
-- Conducted exploratory data analysis on user behavior and engagement metrics
-- Performed hypothesis testing and A/B analysis comparing control and treatment groups
-- Evaluated conversion rates and time-on-page metrics
-- Interpreted statistical results to support leadership recommendations
+---
 
-## Tools & Techniques
-- Python
-- Pandas, NumPy
-- Statistical Inference
-- A/B Testing
-- Data Visualization
+## Project Objectives
+- Evaluate whether the new landing page improves conversion rates
+- Compare user engagement metrics between control and treatment groups
+- Apply hypothesis testing to validate observed differences
+- Translate statistical findings into clear business recommendations
 
-## Key Insights
-- Assessed whether observed differences in conversion were statistically significant
-- Identified engagement patterns relevant to intervention effectiveness
-- Provided data-backed recommendations on landing page adoption
+---
 
-## Outcome
-Delivered clear, actionable insights to support leadership decisions around product optimization and user engagement strategies.
+## Data Description
+The dataset includes simulated user-level interaction data capturing:
+- Conversion status
+- Time spent on the page
+- Control vs. treatment group assignment
+- Engagement-related metrics relevant to decision analysis
 
+---
+
+## Methodology
+The analysis follows a structured experimentation framework:
+
+- Conducted exploratory data analysis (EDA) to understand user behavior patterns
+- Segmented users into control and treatment groups
+- Performed hypothesis testing and A/B analysis to compare conversion outcomes
+- Evaluated statistical significance and practical impact
+- Interpreted results to support leadership decision-making
+
+---
+
+## Skills Demonstrated
+
+| Category | Tools / Concepts |
+|--------|------------------|
+| Programming | Python, Pandas, NumPy |
+| Statistics | Hypothesis Testing, Statistical Inference |
+| Experimentation | A/B Testing, Control vs. Treatment Analysis |
+| Analysis | Exploratory Data Analysis (EDA) |
+| Visualization | Data Visualization & Insight Communication |
+| Business Impact | Data-Driven Recommendations |
+
+---
+
+## Key Findings
+- Assessed whether observed differences in conversion rates were statistically significant
+- Identified engagement patterns relevant to landing page effectiveness
+- Evaluated outcome metrics to reduce uncertainty in decision-making
+- Demonstrated a repeatable experimentation framework applicable to real-world use cases
+
+---
+
+## Business Impact
+- Enabled data-backed decisions regarding landing page adoption
+- Reduced decision risk by validating product changes through statistical testing
+- Supported leadership with clear, actionable insights derived from experimental analysis
+
+---
+
+## Healthcare & Insurance Relevance
+The experimentation and hypothesis-testing framework used in this project mirrors healthcare and insurance analytics applications, including:
+- Intervention effectiveness evaluation
+- Patient or member engagement analysis
+- Outcomes-based performance measurement
+- Evidence-driven decision-making in regulated environments
+
+---
+
+## Repository Structure
