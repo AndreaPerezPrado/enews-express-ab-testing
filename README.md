@@ -72,4 +72,21 @@ The experimentation and hypothesis-testing framework used in this project mirror
 
 ---
 
-## Repository Structure
+## Notebook
+The full analysis is available in the Jupyter Notebook:
+
+📓 **Enews_Express_AB_Testing.ipynb**
+
+---
+
+## Environment
+- Python
+- Pandas
+- NumPy
+- Statistical inference libraries
+- Jupyter Notebook
+
+---
+
+## About This Project
+This project was completed as part of a postgraduate program in **Data Science & Business Analytics** and is designed to demonstrate applied analytics skills relevant to **healthcare, insurance, and senior business analytics roles**.
